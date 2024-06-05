@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nvenag.github.io/sitemap.html
+Sitemap: https://nvenag.github.io/app/sitemap.html
+Sitemap: https://nvenag.github.io/assets/sitemap.html
+Sitemap: https://nvenag.github.io/includes/sitemap.html
+Sitemap: https://nvenag.github.io/src/sitemap.html
